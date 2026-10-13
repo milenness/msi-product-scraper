@@ -1,0 +1,15 @@
+{
+  "name": "msi-product-scraper",
+  "version": "1.0.0",
+  "description": "MSI Product Page Scraper - Test Task",
+  "main": "src/scrape.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0"
+  },
+  "author": "Мілена Карпенко",
+  "license": "ISC"
+}
